@@ -2,10 +2,12 @@
 Analyzing Amazon Reviews using Sentiment Analysis &amp; Topic Modelling 
 The folder contains Datasets, Python_Code and Detailed Report.
 
-# Problem Statement:  Businesses often want to understand what people are talking about their products and how they can improve to achieve better customer satisfaction, ultimately translating to more business (sales, revenue, transactions, etc.).  Here, using text analysis techniques, we aim to extract what people are talking about products on Amazon, provide summary to the laptop brands and give specific actionable insights into improving audience experience / expectations.
+# Problem Statement:  
+Businesses often want to understand what people are talking about their products and how they can improve to achieve better customer satisfaction, ultimately translating to more business (sales, revenue, transactions, etc.).  Here, using text analysis techniques, we aim to extract what people are talking about products on Amazon, provide summary to the laptop brands and give specific actionable insights into improving audience experience / expectations.
 
 
-# Approach: Collect Amazon Reviews (Web data scraping) and apply sentiment analysis techniques to find avg audience sentiment towards a particular laptop brand. Secondly, apply topic modelling techniques to extract the topic of reviews (example battery life, display, picture quality, etc.). Combining these two would allow brands to identify which aspects of their product are being liked (positive sentiments) and which aspects need improvements (negative sentiments)
+# Approach: 
+Collect Amazon Reviews (Web data scraping) and apply sentiment analysis techniques to find avg audience sentiment towards a particular laptop brand. Secondly, apply topic modelling techniques to extract the topic of reviews (example battery life, display, picture quality, etc.). Combining these two would allow brands to identify which aspects of their product are being liked (positive sentiments) and which aspects need improvements (negative sentiments)
 
 
 # Machine Learning Techniques Used: 
