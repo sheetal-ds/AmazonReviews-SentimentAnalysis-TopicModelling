@@ -3,7 +3,7 @@ Analyzing Amazon Reviews using Sentiment Analysis &amp; Topic Modelling
 The folder contains Datasets, Python_Code and Detailed Report.
 
 # Problem Statement:  
-Businesses often want to understand what people are talking about their products and how they can improve to achieve better customer satisfaction, ultimately translating to more business (sales, revenue, transactions, etc.).  Here, using text analysis techniques, we aim to extract what people are talking about products on Amazon, provide summary to the laptop brands and give specific actionable insights into improving audience experience / expectations.
+Businesses often want to understand what people are talking about their laptop products and how they can improve to achieve better customer satisfaction, ultimately translating to more business (sales, revenue, transactions, etc.).  Here, using text analysis techniques, we aim to extract what people are talking about products on Amazon, provide summary to the laptop brands and give specific actionable insights into improving audience experience / expectations.
 
 
 # Approach: 
